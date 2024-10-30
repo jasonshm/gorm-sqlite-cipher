@@ -40,3 +40,4 @@ db, err := gorm.Open(sqliteEncrypt.Open(dbnameWithDSN), &gorm.Config{})
 
 The code of the originating packages is covered by their respective licenses.
 See [LICENSE](LICENSE) file for details.
+
